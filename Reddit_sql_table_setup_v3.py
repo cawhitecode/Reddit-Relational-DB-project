@@ -20,7 +20,7 @@ def sql_front_table():
     submissionID VARCHAR(225),
     timeCreated VARCHAR(225),
     rank INTEGER,
-    time VARCHAR(225) PRIMARY KEY,
+    time VARCHAR(225),
     subscribers INTEGER);"""
     cursor.execute(sql_command)
     connection.commit()

@@ -17,7 +17,7 @@ The intial answer well answer together is what drivers most upvotes? Is it the a
 3. Number of Upvotes</br>
 4. Number of Comments</br>
 5. Number of Subscribers</br>
-6. The raank of the submission</br>
+6. The rank of the submission</br>
 </br>
 Note: Version 3 has expanded this to submission ID, time created, time of the pull, words of the title, name of the author, author ID, author's comment and link karma, used in relational database to save space and time for later use and analysis
 </br>

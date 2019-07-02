@@ -5,6 +5,7 @@ import Reddit_inject_v3
 import Reddit_sql_table_setup_v3 as table_setup
 from datetime import datetime
 import schedule
+import time
 import pytz
 
 front_info = []
